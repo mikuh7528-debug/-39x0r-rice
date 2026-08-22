@@ -1,35 +1,34 @@
 <div align="center">
 
-# 39x0r-rice 🌸💾
+<img src="https://github.com/mikuh7528-debug.png" width="200" style="border-radius:20px" />
 
-### pastel cyber Hyprland rice inspired by Geoxor + Hatsune Miku 39
+# 39x0r-rice 🌸
 
-**by 39x0r — pastel cyber dev / hyprland ricer**
+[Installation](https://img.shields.io/badge/Installation-0f0e17?style=for-the-badge) [Themes](https://img.shields.io/badge/Themes-0f0e17?style=for-the-badge) [Styles](https://img.shields.io/badge/Styles-0f0e17?style=for-the-badge) [Preview](https://img.shields.io/badge/Preview-0f0e17?style=for-the-badge)
+
+**pastel cyber Hyprland rice inspired by Geoxor + Hatsune Miku 39**
 
 </div>
 
 ---
 
-### 🎨 Palette
-- **Primary Pink:** `#d93a83`
-- **Primary Cyan:** `#4ee7d8`
-- **Bg Dark:** `#0f0e17`
+### INSTALL
 
-### 🧩 Stack
-- **Compositor:** Hyprland
-- **Bar:** Waybar
-- **Terminal:** Kitty
-- **Launcher:** Rofi
-- **Colors:** Matugen
+The install script is designed for a minimal Arch Linux install.
 
-### 📸 Preview
+> Important: pastel palette #d93a83 + #4ee7d8 generated with matugen
+
+### Palette
+- Primary Pink: #d93a83
+- Primary Cyan: #4ee7d8
+- Bg Dark: #0f0e17
+
+### Stack
+- Compositor: Hyprland
+- Bar: Waybar
+- Terminal: Kitty
+- Launcher: Rofi
+- Colors: Matugen
+
+### Preview
 coming soon
-
-### 🚀 Install
-coming soon — building my dotfiles
-
-<div align="center">
-
-**39x0r — building my own world, one dotfile at a time**
-
-</div>

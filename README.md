@@ -1,26 +1,18 @@
-# 39x0r-rice 🍚
+# 39x0r-rice :rice:
 
-Mi rice personalizado para Hyprland
+Mi rice personalizado para Hyprland :blue_heart:
 
-## ✨ Info
-
+## :sparkles: Info
 - WM: Hyprland
 - Bar: Waybar
 - Theme: Catppuccin Mocha
-- Terminal: Kitty
-- Shell: zsh
 
-## 🚀 Instalación
-
-```bash
+## :rocket: Instalación
 git clone https://github.com/mikuh7528-debug/-39x0r-rice.git
 cd -39x0r-rice
-chmod +x install.sh
 ./install.sh
 
+## :camera: Preview
+Aquí luego subes screenshots
 
-## Features
-- Hyprland + Waybar
-- Catppuccin Mocha
-
-Made with 💙 by mikuh7528-debug
+Made with :blue_heart: by mikuh7528-debug

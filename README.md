@@ -1,34 +1,30 @@
-<div align="center">
+# 39x0r-rice 🍚💙💖
 
-<img src="https://github.com/mikuh7528-debug.png" width="200" style="border-radius:20px" />
+Mi rice personalizado - Hyprland + Catppuccin + Cyber Miku
 
-# 39x0r-rice 🌸
+![banner](assets/emotes/happy_smiling_clean.png)
 
-[Installation](https://img.shields.io/badge/Installation-0f0e17?style=for-the-badge) [Themes](https://img.shields.io/badge/Themes-0f0e17?style=for-the-badge) [Styles](https://img.shields.io/badge/Styles-0f0e17?style=for-the-badge) [Preview](https://img.shields.io/badge/Preview-0f0e17?style=for-the-badge)
+## ✨ My Emotes
 
-**pastel cyber Hyprland rice inspired by Geoxor + Hatsune Miku 39**
+| Emote | Preview | Uso |
+| :--- | :--- | :--- |
+| Happy | ![happy](assets/emotes/happy_smiling_clean.png) | Bienvenida |
+| Shy | ![shy](assets/emotes/shy_blushing_clean.png) | Créditos |
+| Coding | ![coding](assets/emotes/coding_focused_clean.png) | Instalación |
+| Excited | ![excited](assets/emotes/heart_eyes_excited_clean.png) | Features |
 
-</div>
+## 🚀 Instalación
 
----
+> ![coding](assets/emotes/coding_focused_clean.png) **Miku dice:** ¡Así instalas mi rice!
 
-### INSTALL
+```bash
+git clone https://github.com/mikuh7528-debug/-39x0r-rice
+cd -39x0r-rice
+./install.sh
 
-The install script is designed for a minimal Arch Linux install.
 
-> Important: pastel palette #d93a83 + #4ee7d8 generated with matugen
+💖 Features
+- Hyprland + Waybar
+- Tema Catppuccin Mocha
+- Emotes personalizados by me
 
-### Palette
-- Primary Pink: #d93a83
-- Primary Cyan: #4ee7d8
-- Bg Dark: #0f0e17
-
-### Stack
-- Compositor: Hyprland
-- Bar: Waybar
-- Terminal: Kitty
-- Launcher: Rofi
-- Colors: Matugen
-
-### Preview
-coming soon

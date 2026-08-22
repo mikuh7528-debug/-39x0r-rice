@@ -17,3 +17,10 @@ git clone https://github.com/mikuh7528-debug/-39x0r-rice.git
 cd -39x0r-rice
 chmod +x install.sh
 ./install.sh
+
+
+## Features
+- Hyprland + Waybar
+- Catppuccin Mocha
+
+Made with 💙 by mikuh7528-debug

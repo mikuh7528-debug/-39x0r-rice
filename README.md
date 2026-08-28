@@ -1,34 +1,16 @@
-# 39x0r-rice 🍚
+# 39x0r-rice uwu
 
-> My dream Hyprland setup - Work in progress :blue_heart:
+Mi rice Arch con Alisa Mikhailovna
 
-### :sparkles: About
-Este es mi futuro rice, inspirado en Miku y Catppuccin Mocha.
-Aún no está terminado porque estoy preparando todo para mi instalación de Arch.
+## Wallpapers
+![fondo1](wallpapers/fondo1.png)
+![fondo2](wallpapers/fondo2.png)
 
-### :wrench: Planned Stack
-- **WM:** Hyprland
-- **Bar:** Waybar
-- **Theme:** Catppuccin Mocha
-- **Terminal:** Kitty
-- **Launcher:** Rofi
-
-### :hammer: Status
-- [x] Idea y paleta de colores
-- [x] Repo creado
-- [ ] Instalación de Arch Linux
-- [ ] Configuración de Hyprland
-- [ ] Dotfiles listos
-
-### :camera: Preview
-*Coming soon... screenshots cuando lo tenga instalado*
-
----
-
-<div align="center">
-
-**Building with :blue_heart: by mikuh7528-debug**
-
-*Este rice estará listo pronto!*
-
-</div>
+## Alisa Renders
+![alisa1](renders/alisa/alisa_mikhailovna_kujou__render_by_syahrul1995_didtb13-375w-2x.png)
+![alisa2](renders/alisa/alisa_mikhailovna_kujou_render_by_syahrul1995_diz46ws-375w-2x.png)
+![alisa3](renders/alisa/alisa_mikhailovna_kujou_render_by_syahrul1995_dizesa6-375w-2x.png)
+![alisa4](renders/alisa/alisa_mikhailovna_kujou_render_by_syahrul1995_dizviaa-375w-2x.png)
+![alisa5](renders/alisa/alisa_mikhailovna_kujou_render_by_syahrul1995_dldu4gr-414w-2x.png)
+![alisa6](renders/alisa/alisa_mikhailovna_kujou_render_by_syahrul1995_dldu4h8-414w-2x.png)
+![alisa7](renders/alisa/render_alisa_mikhailovna_kujou___422_by_maxkforce_dgfawqx-414w-2x.png)
